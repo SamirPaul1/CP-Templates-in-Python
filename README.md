@@ -1,2 +1,2 @@
 # CP-templates
-***Competitive Programming templates in Python***
+*Competitive Programming templates in Python*
